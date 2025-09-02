@@ -181,7 +181,7 @@ const UserInterface = () => {
 
       {/* Popular Movies */}
       <div style={{ color: "white", marginTop: "40px", marginBottom: "0px" }}>
-        <h3>MOVIES</h3>
+        <h3>POPULAR MOVIES</h3>
       </div>
       <div
         className="cards-container"
@@ -266,7 +266,7 @@ const UserInterface = () => {
 
       {/* Top Rated Movies */}
       <div style={{ color: "white", marginTop: "40px", marginBottom: "0px" }}>
-        <h3>MOVIES</h3>
+        <h3>Top Rated Movies</h3>
       </div>
       <div
         className="cards-container"
