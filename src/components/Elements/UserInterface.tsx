@@ -181,7 +181,7 @@ const UserInterface = () => {
 
       {/* Popular Movies */}
       <div style={{ color: "white", marginTop: "40px", marginBottom: "0px" }}>
-        <h3>YOUR MOVIES Made in kolkata</h3>
+        <h3>YOUR MOVIES</h3>
       </div>
       <div
         className="cards-container"
@@ -266,7 +266,7 @@ const UserInterface = () => {
 
       {/* Top Rated Movies */}
       <div style={{ color: "white", marginTop: "40px", marginBottom: "0px" }}>
-        <h3>Top Rated Movies By Sayak</h3>
+        <h3>Top Rated Movies</h3>
       </div>
       <div
         className="cards-container"
